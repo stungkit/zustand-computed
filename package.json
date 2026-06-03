@@ -1,6 +1,6 @@
 {
   "name": "zustand-computed",
-  "version": "2.1.4",
+  "version": "2.1.0",
   "description": "A Zustand middleware to create computed states.",
   "keywords": [
     "calculated",
